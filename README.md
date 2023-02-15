@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Verdeli Costa</h1>
 <h3 align="center">An eternal student</h3>
+<h1 align="center">Email: jonathanverdeli@gmail.com</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verdeli&label=Profile%20views&color=0e75b6&style=flat" alt="verdeli" /> </p>
 
