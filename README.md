@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Verdeli Costa</h1>
-<h3 align="center">An eternal student</h3>
+<h3 align="center">A Computer Engineer</h3>
 <h1 align="center">Email: jonathanverdeli@gmail.com</h1>
 
 
